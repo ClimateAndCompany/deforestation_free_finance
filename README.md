@@ -21,7 +21,7 @@ By default, the code produces an Excel file 📈  [df_output_open_source.xlsx](h
 - [License](#-license)
 - [Contact Information](#-contact-information)
 - [Disclaimer](#-disclaimer)
-- [Changelog](#-changelog)
+- [Changelog](#changelog)
 
 ## 🛠 Installation
 
