@@ -34,6 +34,9 @@ cd deforestation_free_finance
 pip install . 
 ```
 
+NB. due to package updates, requirements.txt will be updated. If issues arise, please download the
+required packages manually.
+
 ## 🛠 Usage
 
 - Replace data in `portfolio_data.xlsx` located in `./data/input` with your own portfolio data (if desired). It is also suggested to replace the NACE sector codes.
