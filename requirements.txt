@@ -10,9 +10,9 @@ geopy==2.2.0
 googlemaps==4.10.0
 googletransx==2.4.2
 numpy==1.23.1
-pandas==1.4.3
+pandas==2.2.2
 pycountry==24.6.1
-pymrio==0.4.8
+pymrio==0.5.4
 rapidfuzz==3.6.1
 requests==2.32.3
 schedule==1.1.0

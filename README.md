@@ -14,13 +14,14 @@ By default, the code produces an Excel file 📈  [df_output_open_source.xlsx](h
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folders Overview](#folders-overview)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact Information](#contact-information)
-- [Disclaimer](#disclaimer)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Folders Overview](#-folders-overview)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact Information](#-contact-information)
+- [Disclaimer](#-disclaimer)
+- [Changelog](#-changelog)
 
 ## 🛠 Installation
 
@@ -76,3 +77,7 @@ For questions or support, please contact the authors of 📃 [Making Deforestati
 ## 🔄 Disclaimer
 
 **Note:** Various disclaimers apply. See [disclaimer.xlsx](https://github.com/ClimateAndCompany/deforestation_free_finance/raw/main/data/input/disclaimer.xlsx).
+
+## Changelog
+
+15th July 2024: fixed minor bugs (incorporated Pymrio update)
